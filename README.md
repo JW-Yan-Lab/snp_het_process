@@ -1,4 +1,5 @@
 # snp_het_process
+Lab Process for obtaining SNPs and heterotypes from VCF/Plink Files
 
 ##Step 1: Using VCF tools to extract vcf files with the snp id or chr/pos information
 Use --snps if using snp ID denoting a file with snp id in each row 
